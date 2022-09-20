@@ -1,5 +1,5 @@
 # João Vitor Cunha Assumpção  
-Estudante de Engenharia de Software na Pontifícia Universidade Católica do Paraná.  
+### Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  
 <br>
 
 <!--
