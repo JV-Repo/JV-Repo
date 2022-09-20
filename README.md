@@ -10,7 +10,7 @@
 -->
 
 <a href="https://github.com/JVCAv1">
-<img src="https://activity-graph.herokuapp.com/graph?username=JVCAv1&count_private=true&hide_border=true&theme=redical" />
-<img width="440" align="left" src="https://github-readme-stats.vercel.app/api?username=JVCAv1&count_private=true&hide_border=true&show_icons=true&theme=radical" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVCAv1&count_private=true&hide_border=true&theme=radical&layout=compact&langs_count=10" />
+<img src="https://activity-graph.herokuapp.com/graph?username=JVCAv1&count_private=true&hide_border=true&theme=swift" />
+<img width="440" align="left" src="https://github-readme-stats.vercel.app/api?username=JVCAv1&count_private=true&hide_border=true&show_icons=true&theme=swift" /><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVCAv1&count_private=true&hide_border=true&theme=swift&layout=compact&langs_count=10" />
 </a>
 
