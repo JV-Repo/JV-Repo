@@ -1,7 +1,13 @@
-<h1 align="center"> João Vitor Cunha Assumpção  </h1>  
+<h1> João Vitor Cunha Assumpção  </h1>  
 
-<h3 align="center"> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
-<br><br>  
+<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
+<br>
+
+|  **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-cunha-assump%C3%A7%C3%A3o-958790190/)** |  **[LeetCode](https://leetcode.com/JVCAv1/)**  |
+| --- | --- |
+
+<br>
+  
 
 <a href="https://github.com/JVCAv1">
 <img src="https://activity-graph.herokuapp.com/graph?username=JVCAv1&count_private=true&hide_border=true&theme=react-dark" />
