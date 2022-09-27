@@ -1,13 +1,7 @@
-# João Vitor Cunha Assumpção  
-### Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  
-<br>
+<h1 align="center"> João Vitor Cunha Assumpção  </h1>  
 
-<!--
-![JVCAv1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=JVCAv1&count_private=true&hide_border=true&theme=redical)
-|                                                                                                                                                        |                                                                                                                                                                  |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![JVCAv1's github stats](https://github-readme-stats.vercel.app/api?username=JVCAv1&count_private=true&hide_border=true&show_icons=true&theme=radical) | ![JVCAv1's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=JVCAv1&count_private=true&hide_border=true&theme=radical&layout=compact) |
--->
+<h3 align="center"> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
+<br><br>  
 
 <a href="https://github.com/JVCAv1">
 <img src="https://activity-graph.herokuapp.com/graph?username=JVCAv1&count_private=true&hide_border=true&theme=react-dark" />
