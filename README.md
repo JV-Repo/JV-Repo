@@ -3,8 +3,8 @@
 <h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
 <br>
 
-|  **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-cunha-assump%C3%A7%C3%A3o-958790190/)** |  **[LeetCode](https://leetcode.com/JVCAv1/)**  |
-| --- | --- |
+|  **[LinkedIn](https://www.linkedin.com/in/jo%C3%A3o-v%C3%ADtor-cunha-assump%C3%A7%C3%A3o-958790190/)** |  **[LeetCode](https://leetcode.com/JVCAv1/)**  | **[FreeCodeCamp](https://www.freecodecamp.org/joao-vitor)** | **[SoloLearn](https://www.sololearn.com/profile/1156651)** 
+| --- | --- | --- | --- |
 
 <br>
   
