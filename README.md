@@ -1,4 +1,4 @@
-<h1><p> João Vitor</p> Cunha Assumpção  </h1>   
+<h1> João Vitor Cunha Assumpção  </h1>   
 
 
 <h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
