@@ -44,10 +44,11 @@
 <details>
     <summary><b> Portifolio</b></summary>
     <br>
-    <a href="https://leetcode.com/JVCAv1/">
-        <img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">
-    </a>
-    
+    <p align="left">
+        <a href="https://leetcode.com/JVCAv1/">
+            <img alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">
+        </a>
+    </p>
 </details>
 <details>
     <summary><b> Trophies</b></summary>
