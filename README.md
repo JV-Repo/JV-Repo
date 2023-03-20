@@ -39,31 +39,18 @@
     </table>
     
 </details>
-
+<details>
+    <summary><b> Portifolio</b></summary>
+    <br>
+    <a href="https://leetcode.com/JVCAv1/">
+        <img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">
+    </a>
+    
+</details>
 
     
 <!--[<img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">](https://leetcode.com/JVCAv1/)  -->
-  
 
-<!--
-<table>
-    <th> 
-        <a href="https://leetcode.com/JVCAv1/">
-            <b> LeetCode </b>
-        </a> 
-    </th>
-    <th> 
-        <a href="https://www.freecodecamp.org/joao-vitor">
-            <b> FreeCodeCamp </b>
-        </a> 
-    </th>
-    <th> 
-        <a href="https://www.sololearn.com/profile/1156651">
-            <b> SoloLearn </b>
-        </a> 
-    </th>
-</table>
--->
 
 
 <br>  
