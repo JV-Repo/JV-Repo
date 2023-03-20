@@ -2,27 +2,41 @@
 
 
 <h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
-
+<br>
 <details>
-    <summary><h3>:phone: Contact Me </h3></summary>
-
+    <summary><b>:phone: Contact Me </b></summary>
+<br>
 
 [<img alt="LinkeIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/joaovitorassumpcao/)   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">](mailto:joao.assumpo@gmail.com)    [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/JoaoVCA) 
     
-</details>  
-
+</details>
 <details>
-    <summary><h2>Skills</h2></summary>  
-    
+    <summary><b>:notebook: Skills & Tech</b></summary>
+    <br>
     <table>
         <tr>
             <th>
-                <p>
-                    ss<img align="right" src="https://skillicons.dev/icons?i=git,github,rust,c,java,html,css" />
-                </p>
+                Languages
+            </th>
+            <th>
+                Editors
+            </th>
+            <th>
+                Tools
             </th>
         </tr>
-    </table>  
+        <tr>
+            <td>
+                <img align="center" src="https://skillicons.dev/icons?i=rust,c,java,bash,php,html,css,mysql&perline=5" />
+            </td>
+            <td>
+                <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,neovim,vim" />
+            </td>
+            <td>
+                <img align="center" src="https://skillicons.dev/icons?i=git,github" />
+            </td>
+        </tr>
+    </table>
     
 </details>
 
