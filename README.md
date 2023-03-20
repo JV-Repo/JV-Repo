@@ -1,7 +1,9 @@
 <h1> João Vitor Cunha Assumpção  </h1>   
 
 
-<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.  </h3>  
+<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></h3>  
+
+
 <br>
 <details>
     <summary><b>:phone: Contact Me </b></summary>
@@ -46,6 +48,15 @@
         <img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">
     </a>
     
+</details>
+<details>
+    <summary><b> Trophies</b></summary>
+    <br>
+    <p align="left">
+        <a href="https://github.com/ryo-ma/github-profile-trophy">
+            <img src="https://github-profile-trophy.vercel.app/?username=joaovitorassumpcao&theme=darkhub&no-bg=true&no-frame=true" alt="joaovitorassumpcao" />
+        </a>
+    </p>
 </details>
 
     
