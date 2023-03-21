@@ -13,7 +13,7 @@
     
 </details>
 <details>
-    <summary><b>:notebook: Skills & Tech</b></summary>
+    <summary><b>:computer: Skills & Tech</b></summary>
     <br>
     <table>
         <tr>
@@ -42,7 +42,7 @@
     
 </details>
 <details>
-    <summary><b> Portifolio</b></summary>
+    <summary><b>:notebook: Portifolio</b></summary>
     <br>
     <p align="left">
         <a href="https://leetcode.com/JVCAv1/">
@@ -51,7 +51,7 @@
     </p>
 </details>
 <details>
-    <summary><b> Trophies</b></summary>
+    <summary><b>:trophy: Trophies</b></summary>
     <br>
     <p align="left">
         <a href="https://github.com/ryo-ma/github-profile-trophy">
