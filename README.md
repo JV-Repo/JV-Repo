@@ -5,6 +5,8 @@
 <br>
 
 <!--START_SECTION:waka-->
+<!--START_SECTION:SHOW_SHORT_INFO-->
+<!--START_SECTION:SHOW_SHORT_INFO-->
 <!--END_SECTION:waka-->
 
 <br>
