@@ -105,7 +105,7 @@ github-readme-stats      2 mins              ░░░░░░░░░░░�
         </a>
     </p>
 </details>
-
+<br>
 <hr>
     
 <!--[<img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">](https://leetcode.com/JVCAv1/)  -->
