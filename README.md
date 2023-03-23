@@ -4,8 +4,8 @@
 <h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></h3>
 <br>
 
-<!--START_SECTION:short info-->
-<!--END_SECTION:short info-->
+<!--START_SECTION:show short info-->
+<!--END_SECTION:show short info-->
 
 <br>
 <details>
