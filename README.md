@@ -5,15 +5,11 @@
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2035%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 10.1 kB Used in GitHub's Storage 
  > 
-> 🏆 132 Contributions in the Year 2023
+> 🏆 126 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -33,12 +29,8 @@ C                        2 repos             ██░░░░░░░░░�
 
 
 
-**Timeline**
 
-![Lines of Code chart](https://raw.githubusercontent.com/joaovitorassumpcao/joaovitorassumpcao/main/assets/bar_graph.png)
-
-
- Last Updated on 23/03/2023 22:13:31 UTC
+ Last Updated on 23/03/2023 22:22:12 UTC
 <!--END_SECTION:waka-->
 
 <br>
