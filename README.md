@@ -5,8 +5,40 @@
 <br>
 
 <!--START_SECTION:waka-->
-<!--START_SECTION:SHOW_SHORT_INFO-->
-<!--START_SECTION:SHOW_SHORT_INFO-->
+![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%2035%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 10.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 132 Contributions in the Year 2023
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 13 Public Repositories 
+ > 
+> 🔑 8 Private Repositories 
+ > 
+**I Mostly Code in Rust** 
+
+```text
+Rust                     7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+PHP                      5 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Java                     4 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+HTML                     3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.71 % 
+C                        2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/joaovitorassumpcao/joaovitorassumpcao/main/assets/bar_graph.png)
+
+
+ Last Updated on 23/03/2023 22:13:31 UTC
 <!--END_SECTION:waka-->
 
 <br>
