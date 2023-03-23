@@ -36,6 +36,8 @@ github-readme-stats      2 mins              ░░░░░░░░░░░�
  Last Updated on 23/03/2023 22:27:15 UTC
 <!--END_SECTION:waka-->
 
+<hr>
+
 <br>
 <details>
     <summary><b>:phone: Contact Me </b></summary>
