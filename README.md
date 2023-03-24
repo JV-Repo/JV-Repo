@@ -1,7 +1,16 @@
-<h1> João Vitor Cunha Assumpção  </h1>   
+<h1><div align="left">João Vitor Cunha Assumpção</div>
+    <div align="right"> 
+        <a href="https://www.linkedin.com/in/joaovitorassumpcao/"><img alt="LinkeIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
+        <a href="mailto:joao.assumpo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
+        <a href="https://t.me/JoaoVCA"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white"></a>
+    </div>
+</h1>   
 
 
-<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></h3>
+<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></h3>  
+
+
+
 <br>
 
 <!--START_SECTION:waka-->
@@ -43,45 +52,38 @@ No Activity Tracked This Week
 
 <!--END_SECTION:waka-->
 
-<hr>
 
-<br>
-<details>
-    <summary><b>:phone: Contact Me </b></summary>
-<br>
 
-[<img alt="LinkeIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">](https://www.linkedin.com/in/joaovitorassumpcao/)   [<img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white">](mailto:joao.assumpo@gmail.com)    [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-1DA1F2?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/JoaoVCA) 
+
+
+<!--
+<h2>:computer: Skills & Tech</h2>
+<table>
+    <tr>
+        <th>
+            Languages
+        </th>
+        <th>
+            Editors
+        </th>
+        <th>
+            Tools
+        </th>
+    </tr>
+    <tr>
+        <td>
+            <img align="center" src="https://skillicons.dev/icons?i=rust,c,java,bash,php,html,css,mysql&perline=5" />
+        </td>
+        <td>
+            <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,neovim,vim" />
+        </td>
+        <td>
+            <img align="center" src="https://skillicons.dev/icons?i=git,github" />
+        </td>
+    </tr>
+</table>
     
-</details>
-<details>
-    <summary><b>:computer: Skills & Tech</b></summary>
-    <br>
-    <table>
-        <tr>
-            <th>
-                Languages
-            </th>
-            <th>
-                Editors
-            </th>
-            <th>
-                Tools
-            </th>
-        </tr>
-        <tr>
-            <td>
-                <img align="center" src="https://skillicons.dev/icons?i=rust,c,java,bash,php,html,css,mysql&perline=5" />
-            </td>
-            <td>
-                <img align="center" src="https://skillicons.dev/icons?i=vscode,idea,neovim,vim" />
-            </td>
-            <td>
-                <img align="center" src="https://skillicons.dev/icons?i=git,github" />
-            </td>
-        </tr>
-    </table>
-    
-</details>
+
 <details>
     <summary><b>:notebook: Portifolio</b></summary>
     <br>
@@ -101,11 +103,11 @@ No Activity Tracked This Week
     </p>
 </details>
 <br>
-<hr>
+<h1></h1>
     
 <!--[<img align="left" alt="Leetcode" src="https://leetcard.jacoblin.cool/JVCAv1?theme=unicorn&border=0&radius=20&ext=activity">](https://leetcode.com/JVCAv1/)  -->
 
-
+<h1></h1>
 
 <br>  
 
