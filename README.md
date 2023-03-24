@@ -7,7 +7,7 @@
 </h1>   
 
 
-<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <a href="https://www.youtube.com/watch?v=o_5uZuRDglA"><img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></a></h3>  
+<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <a href=""><img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></a></h3>  
 
 
 
@@ -120,4 +120,4 @@ raytracer                30 mins             ███████████�
 <br><br>  
 
 
-
+<!--https://www.youtube.com/watch?v=o_5uZuRDglA-->
