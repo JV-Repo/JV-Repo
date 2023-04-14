@@ -43,10 +43,10 @@ Sunday                   142 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
