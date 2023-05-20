@@ -43,10 +43,10 @@ Sunday                   142 commits         ██████░░░░░�
 
 ```text
 💬 Programming Languages: 
-Rust                     1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-direct-mapping           1 hr 43 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
