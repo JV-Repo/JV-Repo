@@ -1,4 +1,4 @@
-<h1><div align="left">João Vitor Cunha Assumpção</div>
+<h1><div align="left">João Vitor C. A.</div>
     <div align="right"> 
         <a href="https://www.linkedin.com/in/joaovitorassumpcao/"><img alt="LinkeIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
         <a href="mailto:joao.assumpo@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"></a>
