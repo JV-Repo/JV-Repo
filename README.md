@@ -13,7 +13,9 @@
 
 <br>
 
+
 <!--START_SECTION:waka-->
+<!--
 **🐱 My GitHub Data** 
 
 > 📦 21.2 kB Used in GitHub's Storage 
@@ -25,7 +27,8 @@
 > 📜 15 Public Repositories 
  > 
 > 🔑 10 Private Repositories 
- > 
+ >
+
 📅 **I'm Most Productive on Sunday** 
 
 ```text
@@ -49,8 +52,9 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
+-->
+<!--END_SECTION:waka-->  
 
-<!--END_SECTION:waka-->
 
 
 
