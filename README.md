@@ -7,7 +7,7 @@
 </h1>   
 
 
-<h3> Software Engineering undergraduate at Pontifícia Universidade Católica do Paraná.      <a href="https://wakatime.com/@779a3be9-f7fa-44f8-859b-391401e9dbf8"><img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></a></h3>  
+<h3> Software Developer      <a href="https://wakatime.com/@779a3be9-f7fa-44f8-859b-391401e9dbf8"><img align="right" src="https://komarev.com/ghpvc/?username=joaovitorassumpcao&label=Profile%20views&color=0e75b6&style=flat" alt="joaovitorassumpcao" /></a></h3>  
 <!--<a href="https://wakatime.com/@779a3be9-f7fa-44f8-859b-391401e9dbf8"><img align="right" src="https://wakatime.com/badge/user/779a3be9-f7fa-44f8-859b-391401e9dbf8.svg" /></a>-->
 
 
